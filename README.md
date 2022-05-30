@@ -1,2 +1,2 @@
 # Drum-Kit
-this is quite fun!
+this is quite fun! 🥁
